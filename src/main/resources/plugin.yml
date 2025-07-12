@@ -1,0 +1,4 @@
+name: EndTeleportPlugin
+version: '1.0-SNAPSHOT'
+main: seml.endTeleportPlugin.EndTeleportPlugin
+api-version: '1.21'
